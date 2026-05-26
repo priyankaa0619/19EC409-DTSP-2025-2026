@@ -131,3 +131,4 @@ display(Audio(recovered, rate=fs))
 <img width="857" height="652" alt="WhatsApp Image 2026-05-26 at 10 18 31 PM" src="https://github.com/user-attachments/assets/d239e816-0ce8-4ca8-a1d0-8d8bf8a4e404" />
 
 # RESULT: 
+Thus ,the audio signal is made noise free by removing unwanted signals.
